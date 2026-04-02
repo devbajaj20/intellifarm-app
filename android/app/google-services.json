@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "282138688908",
+    "project_id": "intellifarm-45bdd",
+    "storage_bucket": "intellifarm-45bdd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282138688908:android:94bec15b53e1dedc0faaa9",
+        "android_client_info": {
+          "package_name": "com.example.intellifarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282138688908-ffv55j46jmj5vbu12g6a182lbjpi1cct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz76739G-sJCG1Bk1LDRg2btBwPNkBgfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282138688908-ffv55j46jmj5vbu12g6a182lbjpi1cct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282138688908-3e5h2300pb756ev53jrd55gs7gbbebmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.intellifarmClean"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282138688908:android:c56ac4d0c828511c0faaa9",
+        "android_client_info": {
+          "package_name": "com.example.intellifarm_clean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282138688908-8a5msvj0m0eb2ujkcsc6sk5lcppu5nqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intellifarm_clean",
+            "certificate_hash": "af30f1b6f5076a608c49fa815a44423d87e7b986"
+          }
+        },
+        {
+          "client_id": "282138688908-ffv55j46jmj5vbu12g6a182lbjpi1cct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz76739G-sJCG1Bk1LDRg2btBwPNkBgfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282138688908-ffv55j46jmj5vbu12g6a182lbjpi1cct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282138688908-3e5h2300pb756ev53jrd55gs7gbbebmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.intellifarmClean"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282138688908:android:4aab308ccbcae4000faaa9",
+        "android_client_info": {
+          "package_name": "com.example.intellifarm_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282138688908-ffv55j46jmj5vbu12g6a182lbjpi1cct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz76739G-sJCG1Bk1LDRg2btBwPNkBgfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282138688908-ffv55j46jmj5vbu12g6a182lbjpi1cct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282138688908-3e5h2300pb756ev53jrd55gs7gbbebmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.intellifarmClean"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
