@@ -134,6 +134,13 @@ IntelliFarm/
 ```
 ---
 
+## 🔗 Backend Repository
+
+The backend API for this project is hosted separately:
+
+👉 https://github.com/devbajaj20/intellifarm-backend
+
+
 ## ⚙️ Backend Setup
 
 ```bash
